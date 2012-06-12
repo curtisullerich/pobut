@@ -1,3 +1,3 @@
 RewriteEngine On
-RewriteCond %{HTTP_HOST} ^popcornbuttong\.org [NC]
-RewriteRule (.*) http://www.popcornbutton.org/$1 [L,R=301]
+RewriteCond %{HTTP_HOST} ^popcornbutton.org [NC]
+RewriteRule ^(.*)$ http://www.popcornbutton.org/$1 [L,R=301]
