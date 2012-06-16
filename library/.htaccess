@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "restricted area"
+AuthUserFile /home/curtisu/WWW/popcornbutton/library/.htpasswd
+require valid-user
