@@ -15,11 +15,14 @@
 	position: absolute;
 	z-index: 9999;
 	overflow: hidden;
-	background-color: #fff;
+	background-color: #000;
+/*	background-color: #fff;*/
 }
 
 .lbLoading {
-	background: #fff url(loading.gif) no-repeat center;
+/*	background: #fff url(loading.gif) no-repeat center;*/
+
+	background: #000 url(loading.gif) no-repeat center;
 }
 
 #lbImage {
