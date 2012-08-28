@@ -136,6 +136,10 @@ h2 {
     color: #cccccc;
     text-decoration: none;
  }
+ 
+a{
+	font-weight:bold;
+}
 
 #footer .weebly-footer a{
   color: #666666;
