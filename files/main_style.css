@@ -5,6 +5,7 @@ ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,body,html,p,blockquote,fieldset,input{ margi
  a img{ border:0; }
  .clear{ clear:both; }
  body { background: url(theme/bodybg.jpg?387272) top left no-repeat; background-color:#000000; font-family: arial, sans-serif; font-size:12px; color:#666666; margin:0; padding:0; }
+ a{font-weight:bold; color:#ffffff;}
  div.paragraph { color: #cccccc; font-size: 13px; line-height: 170%; padding: 5px 0px 5px 0px; }
  p { color: #cccccc; font-size: 13px; line-height: 170%; padding: 5px 0px 5px 0px; }
  h1 { font-size:30px; font-weight:bold; color:#fff; margin: 0px 0px 10px 0px; }
